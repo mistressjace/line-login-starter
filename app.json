@@ -4,15 +4,15 @@
   "repository": "https://github.com/line/line-login-starter",
   "env": {
     "LINECORP_PLATFORM_CHANNEL_CHANNELID": {
-      "description": "1654839008",
+      "description": "Channel ID",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CHANNELSECRET": {
-      "description": "e9aa651ce6ab55590d2df9e11aa1cfc1",
+      "description": "Channel secret",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CALLBACKURL": {
-      "description": "https://albion-dracarys.herokuapp.com/auth",
+      "description": "Callback URL",
       "required": true
     }
   }
